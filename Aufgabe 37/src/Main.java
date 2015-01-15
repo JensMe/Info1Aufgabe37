@@ -8,6 +8,7 @@ public class Main {
 		Rechteck2 r2 = new Rechteck2(5,4);
 		System.out.println(r2.getLaenge());
 		System.out.println(r2.getUmfang());
+		//Test
 	}
 
 }
